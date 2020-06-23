@@ -1,0 +1,139 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/silverfish/
+	..
+1590520769
+'b
+	/home/silverfish/bin/
+	..
+1590520769
+'h
+	/home/silverfish/
+	..
+1590520769
+
+# Bookmarks:
+
+# TUI:
+ar
+q1
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/silverfish
+	Music
+6
+d/home/silverfish/Music
+	..
+0
+d/home/silverfish
+	Downloads
+4
+d/home/silverfish/Downloads
+	..
+0
+d/home/silverfish
+	OneDrive
+7
+d/home/silverfish/OneDrive
+	..
+0
+d/home/silverfish
+	..
+0
+d/home
+	..
+0
+d/
+	dev
+3
+d/dev
+	i2c-8
+36
+d
+
+# Right window history (oldest to newest):
+D/home/silverfish
+	Scripts
+10
+D/home/silverfish/Scripts
+	contests
+3
+D/home/silverfish/Scripts/contests
+	..
+0
+D/home/silverfish/Scripts
+	C
+2
+D/home/silverfish/Scripts/C
+	file_io
+1
+D/home/silverfish/Scripts/C/file_io
+	editor.c
+5
+D/home/silverfish/Scripts/C
+	..
+0
+D/home/silverfish/Scripts
+	C
+2
+D/home/silverfish/Scripts/C
+	..
+0
+D/home/silverfish/Scripts
+	..
+0
+D/home/silverfish
+	cc
+13
+D/home
+	silverfish
+1
+D/
+	home
+5
+D/home
+	silverfish
+1
+D/home/silverfish
+	Scripts
+10
+D/home/silverfish/Scripts
+	..
+0
+D
+
+# Command line history (oldest to newest):
+:q
+:wq
+:sp
+:vsp
+
+# Search history (oldest to newest):
+
+# Prompt history (oldest to newest):
+
+# Local filter history (oldest to newest):
+
+# Registers:
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+
+# State:
+f
+i1
+[.1
+[F
+F
+I1
+].1
+]F
+s0

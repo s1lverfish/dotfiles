@@ -1,0 +1,15 @@
+rofi.lines: 3
+rofi.eh: 2
+rofi.padding: 430
+rofi.fullscreen: true
+rofi.bw: 0
+rofi.separator-style: none
+rofi.hide-scrollbar: true
+
+!                  'background', 'border', 'separator'
+rofi.color-window: argb:aa282828, argb:aa282828, argb:aa282828 
+! State:           'bg',     'fg',     'bgalt',  'hlbg',   'hlfg'
+rofi.color-normal: argb:aa282828, #b8bb26, argb:aa282828, argb:aa282828, #8f3f71 
+rofi.color-urgent: argb:aa282828, #b8bb26, argb:aa282828, argb:aa282828, #8f3f71 
+rofi.color-active: argb:aa282828, #b8bb26, argb:aa282828, argb:aa282828, #8f3f71 
+rofi.font: System San Francisco Display 18
